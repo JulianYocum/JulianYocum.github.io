@@ -13,6 +13,9 @@ profile:
     <p>123 your address street</p>
     <p>Your City, State 12345</p>
 
+
+{% include video.liquid path="https://www.youtube.com/embed/78kq-Fh6iwg" class="img-fluid rounded z-depth-1" %}
+
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 
