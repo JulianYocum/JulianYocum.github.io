@@ -31,4 +31,8 @@ latest_posts:
 
 Hi! I'm Julian, a PhD student at the [Center for Human-Compatible AI](https://chai.berkeley.edu/) (CHAI) at UC Berkeley. I work on AI, but I also get side-tracked by physics and philosophy, which I sometimes write about.
 
-{% include video.liquid path="https://www.youtube.com/embed/78kq-Fh6iwg" class="img-fluid rounded z-depth-1" %}
+<div class="row justify-content-start">
+  <div class="col-sm-10">
+    {% include video.liquid path="https://www.youtube.com/embed/78kq-Fh6iwg" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
