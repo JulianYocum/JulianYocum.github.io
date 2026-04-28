@@ -29,7 +29,7 @@ latest_posts:
 
 Hi, welcome to my website. 
 
-Let me introduce myself. I'm Julian, a PhD student the [Center for Human-Compatible AI](https://chai.berkeley.edu/) at UC Berkeley. I work on AI, but I also get side-tracked by physics and philosophy, which I sometimes write about.
+Let me introduce myself. I'm Julian, a PhD student at the [Center for Human-Compatible AI](https://chai.berkeley.edu/) at UC Berkeley. I work on AI, but I also get side-tracked by physics and philosophy, which I sometimes write about.
 
 {% include video.liquid path="https://www.youtube.com/embed/78kq-Fh6iwg" class="img-fluid rounded z-depth-1" %}
 
