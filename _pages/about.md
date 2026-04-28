@@ -9,7 +9,7 @@ profile:
   image: me.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>CHAI</p>
+    <p>CHAI              </p>
     <p>2121 Berkeley Way,</p>
     <p>Berkeley, CA 94704</p>
 
