@@ -3,16 +3,7 @@
     "name": "Julian Yocum",
     "label": "PhD Student in Computer Science, UC Berkeley",
     "image": "",
-    "email": "juliany@berkeley.edu",
-    "phone": "(980) 579-0864",
     "summary": "PhD student at UC Berkeley researching world models, neural representations, and AI alignment in the Center for Human-Compatible AI.",
-    "location": {
-      "address": "2455 Prospect St",
-      "postalCode": "94704",
-      "city": "Berkeley",
-      "countryCode": "US",
-      "region": "California"
-    },
     "profiles": []
   },
   "work": [
